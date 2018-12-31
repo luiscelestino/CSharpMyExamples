@@ -1,0 +1,10 @@
+C:\Users\souza\source\repos\MeusExemplos\GetSet\bin\Debug\netcoreapp2.1\GetSet.deps.json
+C:\Users\souza\source\repos\MeusExemplos\GetSet\bin\Debug\netcoreapp2.1\GetSet.runtimeconfig.json
+C:\Users\souza\source\repos\MeusExemplos\GetSet\bin\Debug\netcoreapp2.1\GetSet.runtimeconfig.dev.json
+C:\Users\souza\source\repos\MeusExemplos\GetSet\bin\Debug\netcoreapp2.1\GetSet.dll
+C:\Users\souza\source\repos\MeusExemplos\GetSet\bin\Debug\netcoreapp2.1\GetSet.pdb
+C:\Users\souza\source\repos\MeusExemplos\GetSet\obj\Debug\netcoreapp2.1\GetSet.csproj.CoreCompileInputs.cache
+C:\Users\souza\source\repos\MeusExemplos\GetSet\obj\Debug\netcoreapp2.1\GetSet.AssemblyInfoInputs.cache
+C:\Users\souza\source\repos\MeusExemplos\GetSet\obj\Debug\netcoreapp2.1\GetSet.AssemblyInfo.cs
+C:\Users\souza\source\repos\MeusExemplos\GetSet\obj\Debug\netcoreapp2.1\GetSet.dll
+C:\Users\souza\source\repos\MeusExemplos\GetSet\obj\Debug\netcoreapp2.1\GetSet.pdb

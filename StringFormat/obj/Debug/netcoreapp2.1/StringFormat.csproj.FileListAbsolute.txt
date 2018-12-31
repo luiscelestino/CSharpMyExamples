@@ -1,0 +1,11 @@
+C:\Users\souza\source\repos\MeusExemplos\StringFormat\bin\Debug\netcoreapp2.1\StringFormat.deps.json
+C:\Users\souza\source\repos\MeusExemplos\StringFormat\bin\Debug\netcoreapp2.1\StringFormat.runtimeconfig.json
+C:\Users\souza\source\repos\MeusExemplos\StringFormat\bin\Debug\netcoreapp2.1\StringFormat.runtimeconfig.dev.json
+C:\Users\souza\source\repos\MeusExemplos\StringFormat\bin\Debug\netcoreapp2.1\StringFormat.dll
+C:\Users\souza\source\repos\MeusExemplos\StringFormat\bin\Debug\netcoreapp2.1\StringFormat.pdb
+C:\Users\souza\source\repos\MeusExemplos\StringFormat\obj\Debug\netcoreapp2.1\StringFormat.csprojAssemblyReference.cache
+C:\Users\souza\source\repos\MeusExemplos\StringFormat\obj\Debug\netcoreapp2.1\StringFormat.csproj.CoreCompileInputs.cache
+C:\Users\souza\source\repos\MeusExemplos\StringFormat\obj\Debug\netcoreapp2.1\StringFormat.AssemblyInfoInputs.cache
+C:\Users\souza\source\repos\MeusExemplos\StringFormat\obj\Debug\netcoreapp2.1\StringFormat.AssemblyInfo.cs
+C:\Users\souza\source\repos\MeusExemplos\StringFormat\obj\Debug\netcoreapp2.1\StringFormat.dll
+C:\Users\souza\source\repos\MeusExemplos\StringFormat\obj\Debug\netcoreapp2.1\StringFormat.pdb

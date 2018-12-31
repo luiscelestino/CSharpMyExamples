@@ -1,0 +1,10 @@
+C:\Users\souza\source\repos\MeusExemplos\Tuplas\bin\Debug\netcoreapp2.1\Tuplas.deps.json
+C:\Users\souza\source\repos\MeusExemplos\Tuplas\bin\Debug\netcoreapp2.1\Tuplas.runtimeconfig.json
+C:\Users\souza\source\repos\MeusExemplos\Tuplas\bin\Debug\netcoreapp2.1\Tuplas.runtimeconfig.dev.json
+C:\Users\souza\source\repos\MeusExemplos\Tuplas\bin\Debug\netcoreapp2.1\Tuplas.dll
+C:\Users\souza\source\repos\MeusExemplos\Tuplas\bin\Debug\netcoreapp2.1\Tuplas.pdb
+C:\Users\souza\source\repos\MeusExemplos\Tuplas\obj\Debug\netcoreapp2.1\Tuplas.csproj.CoreCompileInputs.cache
+C:\Users\souza\source\repos\MeusExemplos\Tuplas\obj\Debug\netcoreapp2.1\Tuplas.AssemblyInfoInputs.cache
+C:\Users\souza\source\repos\MeusExemplos\Tuplas\obj\Debug\netcoreapp2.1\Tuplas.AssemblyInfo.cs
+C:\Users\souza\source\repos\MeusExemplos\Tuplas\obj\Debug\netcoreapp2.1\Tuplas.dll
+C:\Users\souza\source\repos\MeusExemplos\Tuplas\obj\Debug\netcoreapp2.1\Tuplas.pdb

@@ -1,0 +1,10 @@
+C:\Users\souza\source\repos\MeusExemplos\Enum\bin\Debug\netcoreapp2.1\Enum.deps.json
+C:\Users\souza\source\repos\MeusExemplos\Enum\bin\Debug\netcoreapp2.1\Enum.runtimeconfig.json
+C:\Users\souza\source\repos\MeusExemplos\Enum\bin\Debug\netcoreapp2.1\Enum.runtimeconfig.dev.json
+C:\Users\souza\source\repos\MeusExemplos\Enum\bin\Debug\netcoreapp2.1\Enum.dll
+C:\Users\souza\source\repos\MeusExemplos\Enum\bin\Debug\netcoreapp2.1\Enum.pdb
+C:\Users\souza\source\repos\MeusExemplos\Enum\obj\Debug\netcoreapp2.1\Enum.csproj.CoreCompileInputs.cache
+C:\Users\souza\source\repos\MeusExemplos\Enum\obj\Debug\netcoreapp2.1\Enum.AssemblyInfoInputs.cache
+C:\Users\souza\source\repos\MeusExemplos\Enum\obj\Debug\netcoreapp2.1\Enum.AssemblyInfo.cs
+C:\Users\souza\source\repos\MeusExemplos\Enum\obj\Debug\netcoreapp2.1\Enum.dll
+C:\Users\souza\source\repos\MeusExemplos\Enum\obj\Debug\netcoreapp2.1\Enum.pdb

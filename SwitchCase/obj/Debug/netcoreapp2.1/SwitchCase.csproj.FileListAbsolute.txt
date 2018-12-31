@@ -1,0 +1,11 @@
+C:\Users\souza\source\repos\MeusExemplos\SwitchCase\bin\Debug\netcoreapp2.1\SwitchCase.deps.json
+C:\Users\souza\source\repos\MeusExemplos\SwitchCase\bin\Debug\netcoreapp2.1\SwitchCase.runtimeconfig.json
+C:\Users\souza\source\repos\MeusExemplos\SwitchCase\bin\Debug\netcoreapp2.1\SwitchCase.runtimeconfig.dev.json
+C:\Users\souza\source\repos\MeusExemplos\SwitchCase\bin\Debug\netcoreapp2.1\SwitchCase.dll
+C:\Users\souza\source\repos\MeusExemplos\SwitchCase\bin\Debug\netcoreapp2.1\SwitchCase.pdb
+C:\Users\souza\source\repos\MeusExemplos\SwitchCase\obj\Debug\netcoreapp2.1\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\souza\source\repos\MeusExemplos\SwitchCase\obj\Debug\netcoreapp2.1\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\souza\source\repos\MeusExemplos\SwitchCase\obj\Debug\netcoreapp2.1\SwitchCase.AssemblyInfo.cs
+C:\Users\souza\source\repos\MeusExemplos\SwitchCase\obj\Debug\netcoreapp2.1\SwitchCase.dll
+C:\Users\souza\source\repos\MeusExemplos\SwitchCase\obj\Debug\netcoreapp2.1\SwitchCase.pdb
+C:\Users\souza\source\repos\MeusExemplos\SwitchCase\obj\Debug\netcoreapp2.1\SwitchCase.csprojAssemblyReference.cache

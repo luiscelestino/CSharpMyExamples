@@ -1,0 +1,11 @@
+C:\Users\souza\source\repos\MeusExemplos\AdoNet\bin\Debug\netcoreapp2.1\AdoNet.deps.json
+C:\Users\souza\source\repos\MeusExemplos\AdoNet\bin\Debug\netcoreapp2.1\AdoNet.runtimeconfig.json
+C:\Users\souza\source\repos\MeusExemplos\AdoNet\bin\Debug\netcoreapp2.1\AdoNet.runtimeconfig.dev.json
+C:\Users\souza\source\repos\MeusExemplos\AdoNet\bin\Debug\netcoreapp2.1\AdoNet.dll
+C:\Users\souza\source\repos\MeusExemplos\AdoNet\obj\Debug\netcoreapp2.1\AdoNet.csproj.CoreCompileInputs.cache
+C:\Users\souza\source\repos\MeusExemplos\AdoNet\obj\Debug\netcoreapp2.1\AdoNet.AssemblyInfoInputs.cache
+C:\Users\souza\source\repos\MeusExemplos\AdoNet\obj\Debug\netcoreapp2.1\AdoNet.AssemblyInfo.cs
+C:\Users\souza\source\repos\MeusExemplos\AdoNet\bin\Debug\netcoreapp2.1\AdoNet.pdb
+C:\Users\souza\source\repos\MeusExemplos\AdoNet\obj\Debug\netcoreapp2.1\AdoNet.csprojAssemblyReference.cache
+C:\Users\souza\source\repos\MeusExemplos\AdoNet\obj\Debug\netcoreapp2.1\AdoNet.dll
+C:\Users\souza\source\repos\MeusExemplos\AdoNet\obj\Debug\netcoreapp2.1\AdoNet.pdb

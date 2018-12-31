@@ -1,0 +1,11 @@
+C:\Users\souza\source\repos\MeusExemplos\Pilhas\bin\Debug\netcoreapp2.1\Pilhas.deps.json
+C:\Users\souza\source\repos\MeusExemplos\Pilhas\bin\Debug\netcoreapp2.1\Pilhas.runtimeconfig.json
+C:\Users\souza\source\repos\MeusExemplos\Pilhas\bin\Debug\netcoreapp2.1\Pilhas.runtimeconfig.dev.json
+C:\Users\souza\source\repos\MeusExemplos\Pilhas\bin\Debug\netcoreapp2.1\Pilhas.dll
+C:\Users\souza\source\repos\MeusExemplos\Pilhas\bin\Debug\netcoreapp2.1\Pilhas.pdb
+C:\Users\souza\source\repos\MeusExemplos\Pilhas\obj\Debug\netcoreapp2.1\Pilhas.csprojAssemblyReference.cache
+C:\Users\souza\source\repos\MeusExemplos\Pilhas\obj\Debug\netcoreapp2.1\Pilhas.csproj.CoreCompileInputs.cache
+C:\Users\souza\source\repos\MeusExemplos\Pilhas\obj\Debug\netcoreapp2.1\Pilhas.AssemblyInfoInputs.cache
+C:\Users\souza\source\repos\MeusExemplos\Pilhas\obj\Debug\netcoreapp2.1\Pilhas.AssemblyInfo.cs
+C:\Users\souza\source\repos\MeusExemplos\Pilhas\obj\Debug\netcoreapp2.1\Pilhas.dll
+C:\Users\souza\source\repos\MeusExemplos\Pilhas\obj\Debug\netcoreapp2.1\Pilhas.pdb

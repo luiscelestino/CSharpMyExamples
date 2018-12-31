@@ -1,0 +1,10 @@
+C:\Users\souza\source\repos\MeusExemplos\Nullable\bin\Debug\netcoreapp2.1\Nullable.deps.json
+C:\Users\souza\source\repos\MeusExemplos\Nullable\bin\Debug\netcoreapp2.1\Nullable.runtimeconfig.json
+C:\Users\souza\source\repos\MeusExemplos\Nullable\bin\Debug\netcoreapp2.1\Nullable.runtimeconfig.dev.json
+C:\Users\souza\source\repos\MeusExemplos\Nullable\bin\Debug\netcoreapp2.1\Nullable.dll
+C:\Users\souza\source\repos\MeusExemplos\Nullable\bin\Debug\netcoreapp2.1\Nullable.pdb
+C:\Users\souza\source\repos\MeusExemplos\Nullable\obj\Debug\netcoreapp2.1\Nullable.csproj.CoreCompileInputs.cache
+C:\Users\souza\source\repos\MeusExemplos\Nullable\obj\Debug\netcoreapp2.1\Nullable.AssemblyInfoInputs.cache
+C:\Users\souza\source\repos\MeusExemplos\Nullable\obj\Debug\netcoreapp2.1\Nullable.AssemblyInfo.cs
+C:\Users\souza\source\repos\MeusExemplos\Nullable\obj\Debug\netcoreapp2.1\Nullable.dll
+C:\Users\souza\source\repos\MeusExemplos\Nullable\obj\Debug\netcoreapp2.1\Nullable.pdb
